@@ -1,0 +1,5 @@
+# Ignore outputs
+outputs/
+
+# Ignore notebook checkpoints
+*.ipynb
